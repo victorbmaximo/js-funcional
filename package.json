@@ -1,0 +1,25 @@
+{
+  "name": "JS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "desafios.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorbmaximo/js-funcional.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorbmaximo/js-funcional/issues"
+  },
+  "homepage": "https://github.com/victorbmaximo/js-funcional#readme",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "rxjs": "^6.6.3",
+    "xmlhttprequest": "^1.8.0"
+  }
+}

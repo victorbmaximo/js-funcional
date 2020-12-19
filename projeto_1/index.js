@@ -20,6 +20,7 @@ const simbolos = [
   ")",
 ];
 
+
 fn.lerDiretorio(caminho)
   .then(fn.elementosTerminadosCom(".srt"))
   .then(fn.lerArquivos)
